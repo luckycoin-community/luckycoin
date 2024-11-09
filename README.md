@@ -1,15 +1,15 @@
 # PLEASE USE THE NEW [v3 LUCKYCOIN CLIENT](https://github.com/LuckyCoinProj/luckycoinV3) WITH AUXPOW ENABLED. DO NOT USE THIS REPO ANY LONGER. THANKS AND STAY LUCKY MY FRIENDS!
 
 <h1 align="center">
-<img src="https://luckycoinfoundation.org/images/logo.png" data-canonical-src="https://luckycoinfoundation.org/images/logo.png" width="250" height="250" alt="LuckyCoin"/>
+<img src="[https://luckycoinfoundation.org/images/logo.png](https://luckycoinfoundation.org/images/luckycoin-logo.avif)" data-canonical-src="[https://luckycoinfoundation.org/images/logo.png](https://luckycoinfoundation.org/images/luckycoin-logo.avif)" width="250" height="250" alt="LuckyCoin"/>
 <br/><br/>
 LuckyCoin [LKY]
 </h1>
 
 <div align="center">
 
-[![LuckyCoinBadge](https://img.shields.io/badge/LuckyCoin-Coin-blue)](https://luckycoin.com)
-[![MuchWow](https://img.shields.io/badge/OG-Coin-yellow.svg)](https://luckycoin.com)
+[![LuckyCoinBadge](https://img.shields.io/badge/LuckyCoin-Coin-blue)](https://luckycoinfoundation.org)
+[![MuchWow](https://img.shields.io/badge/OG-Coin-yellow.svg)](https://luckycoinfoundation.org)
 
 
 ## Why 2.0.0?
