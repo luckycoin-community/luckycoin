@@ -1,3 +1,5 @@
+# PLEASE USE THE NEW [v3 LUCKYCOIN CLIENT](https://github.com/LuckyCoinProj/luckycoinV3) WITH AUXPOW ENABLED. DO NOT USE THIS REPO ANY LONGER. THANKS AND STAY LUCKY MY FRIENDS!
+
 <h1 align="center">
 <img src="https://luckycoinfoundation.org/images/logo.png" data-canonical-src="https://luckycoinfoundation.org/images/logo.png" width="250" height="250" alt="LuckyCoin"/>
 <br/><br/>
